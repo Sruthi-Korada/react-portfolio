@@ -1,0 +1,19 @@
+.bodered{
+    margin-top: 100px;
+    border: 20px;
+    background: #3CAEA3;
+}
+.contnt{
+     
+    text-align: center; 
+}
+.bar{
+    margin-top: 100px;
+    border: 100px;
+    background: gainsboro;
+    
+}
+.bar1{
+    border: 100px;
+    background: gainsboro; 
+}
